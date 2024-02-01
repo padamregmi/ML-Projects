@@ -9,3 +9,4 @@ Steps involved:
 6. Deploy the model using modelbit
 7. Create function to call the pipeline using modelbit which creates REST API endpoint to call the deployed model
 8. Call the API using CURL command to test the model prediction
+
